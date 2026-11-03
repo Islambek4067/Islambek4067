@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Islambek
 
-<!--
-**Islambek4067/Islambek4067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend developer from Kazakhstan 🇰🇿
 
-Here are some ideas to get you started:
+- 🔭 Currently learning backend development with Go
+- 🌱 Pet project: [URL Shortener](https://github.com/Islambek4067/url-shortener) — REST API built with Go, PostgreSQL and Docker
+- 📫 How to reach me: your@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,docker,git,linux,ubuntu,vscode&perline=10)](https://skillicons.dev)
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
