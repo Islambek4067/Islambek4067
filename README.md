@@ -4,7 +4,7 @@
 
 - 🔭 Currently learning backend development with Go
 - 🌱 Pet project: [URL Shortener](https://github.com/Islambek4067/url-shortener) — REST API built with Go, PostgreSQL and Docker
-- 📫 How to reach me: your@email.com
+- 📫 How to reach me: i.almas4067@email.com
 
 ### Languages and Tools:
 
